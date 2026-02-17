@@ -6,7 +6,7 @@ This project explores the Netflix Movies and TV Shows dataset using Python.
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
+
 
 ## Analysis Performed
 - Movies vs TV Shows comparison
